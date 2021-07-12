@@ -1,0 +1,82 @@
+{
+    "dishes": [
+        {
+            "title": "Hummus",
+            "description": "Pureed chick peas, oil and garlic spread, served with pita",
+            "price": 4.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Pita",
+            "description": "Middle Eastern flatbread",
+            "price": 2.00,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Tzatziki",
+            "description": "Whipped yogurt, cucumber and garlic sip",
+            "price": 3.50,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Feta",
+            "description": "Goat's milk cheese",
+            "price": 3.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Saganaki",
+            "description": "Flaming Greek Kefalotiri cheese",
+            "price": 9.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Tiropita",
+            "description": "Eggs, feta and filo pastry",
+            "price": 5.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Dolmades",
+            "description": "Stuffed grape vine leaves",
+            "price": 8.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Wings",
+            "description": "Hot or honey garlic, Frank's hot, Hot BBQ, Salt & pepper",
+            "price": 11.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Spanakopita",
+            "description": "Spinach and feta filo pie",
+            "price": 5.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Pork odd Chicken Skewer",
+            "description": "",
+            "price": 4.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Escargots",
+            "description": "",
+            "price": 7.95,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Samosas",
+            "description": "2 pieces",
+            "price": 5.00,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Olives",
+            "description": "Special Greek olives",
+            "price": 3.95,
+            "category": "Appetizers"
+        }
+    ]
+}
