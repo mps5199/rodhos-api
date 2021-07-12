@@ -86,7 +86,7 @@
         },
         {
             "title": "Greek Salad",
-            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our out homemade dressing",
+            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our homemade dressing",
             "price": 11.95,
             "category": "Salads"
         },
@@ -98,7 +98,7 @@
         },
         {
             "title": "Greek Salad (Half Order)",
-            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our out homemade dressing",
+            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our homemade dressing",
             "price": 7.95,
             "category": "Salads"
         },
