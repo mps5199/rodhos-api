@@ -125,6 +125,534 @@
             "description": "Add on chicken or shrimp to any salad",
             "price": 6.00,
             "category": "Salads"
+        },
+        {
+            "title": "Butter Chicken, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Lamb Curry, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Chicken Curry, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Naan",
+            "description": "",
+            "price": 3.00,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Extra Roti",
+            "description": "",
+            "price": 1.00,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Matter Paneer, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Kadhai Paneer, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Chickpeas, Curry, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Shaahi Paneer, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Kadhai Chicken, Rice and Roti",
+            "description": "",
+            "price": 16.95,
+            "category": "Indian Specialities"
+        },
+        {
+            "title": "Jumbo Tiger Prawns",
+            "description": "Four jumbo tiger prawns served with rice or baked potato or roast potato",
+            "price": 26.95,
+            "category": "Seafood"
+        },
+        {
+            "title": "Lobster Tail",
+            "description": "One Lobster",
+            "price": 28.95,
+            "category": "Seafood"
+        },
+        {
+            "title": "Broiled/Baked Spaghetti",
+            "description": "Comes with meat sauce",
+            "price": 11.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Broiled/Baked Spaghetti(with meatballs)",
+            "description": "Comes with meatballs and sauce",
+            "price": 12.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Baked Ravioli",
+            "description": "Comes with meat sauce",
+            "price": 12.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Baked Ravioli(with meatballs)",
+            "description": "Comes with meatballs and sauce",
+            "price": 13.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Baked Lasagna",
+            "description": "Comes with meat sauce",
+            "price": 11.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Baked Lasagna(with meatballs)",
+            "description": "Comes with meatballs and sauce",
+            "price": 12.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Vegetarian Lasagna",
+            "description": "Especially for the vegetarian",
+            "price": 11.95,
+            "category": "Pasta"
+        },
+        {
+            "title": "Steak & Lobster",
+            "description": "",
+            "price": 40.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "Steak and B.B.Q. Ribs",
+            "description": "",
+            "price": 25.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "Chicken and B.B.Q. Ribs",
+            "description": "",
+            "price": 20.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "Steak & Lasagna",
+            "description": "",
+            "price": 22.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "B.B.Q. Ribs and Lasagna",
+            "description": "",
+            "price": 20.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "B.B.Q. Chicken and Lasagna",
+            "description": "",
+            "price": 20.95,
+            "category": "Combinations"
+        },
+        {
+            "title": "Pork Souvlaki",
+            "description": "",
+            "price": 7.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Chicken Souvlaki",
+            "description": "",
+            "price": 7.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Vegetarian Souvlaki",
+            "description": "Tomato, onion & Cucumber Tzatziki",
+            "price": 6.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Greek Ribs",
+            "description": "Charbroiled with lemon & spices served with Greek salad, roast potatoes and garlic bread.",
+            "price": 20.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Moussaka",
+            "description": "A Casserole of eggplant, potato and a spicy meat filling topped with Bechemel sauce, served with Greek salad and garlic bread",
+            "price": 18.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Beef Shishkebob",
+            "description": "Tender cubes of sirloin, green peppers and onion on a skewer, served with rice pilaf, Greek Salad and garlic bread",
+            "price": 19.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Chicken Shishkebob",
+            "description": "Skewer of tender chicken, green peppers and onion served with rice pilaf, Greek Salad and garlic bread",
+            "price": 19.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Spanakopita Dinner",
+            "description": "Rice, Greek salad and garlic toast",
+            "price": 17.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Marinated Chicken",
+            "description": "Chicken marinated with lemon and herbs, served with baked potato, roast potato or rice pilaf and garlic bread",
+            "price": 18.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Charbroiled Lamb chops",
+            "description": "Served with rice pilaf & Greek Salad and garlic bread",
+            "price": 28.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Greek Platter for two",
+            "description": "Lamb chops, Greek ribs, beef shish kabob, dolmades, spanakopita, tiropita, roast potatoes, rice & Greek Salad and garlic bread.",
+            "price": 50.95,
+            "category": "Greek Specialities"
+        },
+        {
+            "title": "Ekmek",
+            "description": "",
+            "price": 5.95,
+            "category": "Dessert"
+        },
+        {
+            "title": "Chicken Cordon Bleu",
+            "description": "Served with Rice, Caesar Salad and Garlic Toast",
+            "price": 20.95,
+            "category": "Special Dinner"
+        },
+        {
+            "title": "Pan Fried Prawns",
+            "description": "Served with Rice, Caesar Salad and Garlic Toas",
+            "price": 20.95,
+            "category": "Special Dinner"
+        },
+        {
+            "title": "Chicken Parmesan",
+            "description": "Served with rice, spaghetti, Lasagna, Baked Potato, or Roast Potato and Tossed Green Salad and Garlic toast",
+            "price": 20.95,
+            "category": "Special Dinner"
+        },
+        {
+            "title": "Roast Lamb",
+            "description": "Served with Roast Potato, Greek salad and Garlic Toast",
+            "price": 22.95,
+            "category": "Special Dinner"
+        },
+        {
+            "title": "8 oz. Top Sirlion",
+            "description": "",
+            "price": 20.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "10 oz. Top Sirlion",
+            "description": "",
+            "price": 22.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "8 oz. New York",
+            "description": "",
+            "price": 23.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "10 oz. New York",
+            "description": "",
+            "price": 25.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "Barbecued Ribs",
+            "description": "Tender lean ribs baked in barbecue sauce, served with your choice of rice, baked potato or roast potatoes and garlic bread",
+            "price": 20.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "Veal Parmesan",
+            "description": "Served with rice, spaghetti , or baked (roasted) potatoes or lasagna and garlic bread",
+            "price": 19.95,
+            "category": "Steak & Ribs"
+        },
+        {
+            "title": "Barbequed Chicken",
+            "description": "Baked with barbeque sauce, served with baked potatoes, roasted potatoes or rice",
+            "price": 18.95,
+            "category": "Chicken"
+        },
+        {
+            "title": "Chicken Cacciatore",
+            "description": "Chicken baked with spaghetti in our special cacciatore sauce, served with garlic toast",
+            "price": 16.95,
+            "category": "Chicken"
+        },
+        {
+            "title": "Barbequed Chicken Pizza",
+            "description": "Chicken Breast, Onion, Green Peppers, Tomatoes & B.B.Q Sauce",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Chicken Supreme Pizza",
+            "description": "Chicken Breast, Onion, Green Peppers & Tomatoes",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Butter Chicken Pizza",
+            "description": "Chicken Breast, Green Peppers, Onion, Tomatoes & Butter Chicken Sauce",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Aris Special",
+            "description": "Ham, Salami, Pepperoni, Mushrooms, Green Peppers, Onions, Olives, Pineapple, Cheese& Tomatoes",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Popoye's Special",
+            "description": "Spinach, Onions. Feta Cheese, Mozzarella Cheese & Tomato Sauce",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Rodhos Special",
+            "description": "Pepperoni, Ham, Mushrooms, Olives, Green Peppers, Onions, Shrimp, Cheese & Tomato Sauce",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Greek Delight",
+            "description": "Pepperoni, Ham, Mushrooms, Feta Cheese, Green Peppers, Cheese & Tomato Sauce",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "D.K. Special",
+            "description": "Tandoori Chicken, Onions, Green Peppers, Cilantro & Tomatoes",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Vegetarian Pizza",
+            "description": "Green Peppers, Tomatoes, Pineapple, Olives, Mushrooms, Onions, Cheese & Tomatoes",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Vampire Slayer",
+            "description": "Garlic, Feta, Jalapenos",
+            "price": 15.95,
+            "category": "Rodhos Pizza"
+        },
+        {
+            "title": "Shrimp and Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Ham and Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Ham",
+            "description": "",
+            "price": 12.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Cheese and Tomato Sauce",
+            "description": "",
+            "price": 12.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Pepperoni, Mushrooms and Green Peppers",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Smoked Oysters & Onions",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Mushrooms & Green Peppers",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Italian Salami & Pepperoni",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Black Olives& Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Pepperoni and Ham",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Mushrooms",
+            "description": "",
+            "price": 12.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Mushrooms, Green Peppers, Onion& Olives",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Pepperoni",
+            "description": "",
+            "price": 12.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Ham, Pineapple & Mushrooms",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Italian Salami",
+            "description": "",
+            "price": 12.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Italian Salami & Mushroom",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Lean Beef, Ham & Pepperoni",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Italian Salami Ham & Pepperoni",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Lean Beef & Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Shrimp, Mushrooms Green Peppers & Onion",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Hot Pepperoni",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Anchovies",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Green Peppers& Onion",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Pineapple & Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Hot Ham & Mushrooms",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Pepperoni, Mushrooms, Olives & Onions",
+            "description": "",
+            "price": 14.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Ham & Italian Salami",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Ham & Fresh Tomatoes",
+            "description": "",
+            "price": 13.95,
+            "category": "Pizza"
+        },
+        {
+            "title": "Extra Toppings",
+            "description": "",
+            "price": 2.75,
+            "category": "Pizza"
         }
     ]
 }
