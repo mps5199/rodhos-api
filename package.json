@@ -19,5 +19,6 @@
   "homepage": "https://github.com/mps5199/rodhos-api#readme",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {}
 }
