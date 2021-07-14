@@ -5,17 +5,7 @@
             "description": "Pureed chick peas, oil and garlic spread, served with pita",
             "prices": 
                 {
-                "price": "4.95"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Pita",
-            "description": "Middle Eastern flatbread",
-            "prices": 
-                {
-                "price": "2.00"
+                "price": 4.95
                 }
             ,
             "category": "Appetizers"
@@ -25,17 +15,7 @@
             "description": "Whipped yogurt, cucumber and garlic sip",
             "prices": 
                 {
-                "price": "2.50"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Feta",
-            "description": "Goat's milk cheese",
-            "prices": 
-                {
-                "price": "3.95"
+                "price": 3.50
                 }
             ,
             "category": "Appetizers"
@@ -45,17 +25,7 @@
             "description": "Flaming Greek Kefalotiri cheese",
             "prices": 
                 {
-                "price": "9.95"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Tiropita",
-            "description": "Eggs, feta and filo pastry",
-            "prices": 
-                {
-                "price": "5.95"
+                "price": 9.95
                 }
             ,
             "category": "Appetizers"
@@ -65,17 +35,7 @@
             "description": "Stuffed grape vine leaves",
             "prices": 
                 {
-                "price": "8.95"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Wings",
-            "description": "Hot or honey garlic, Frank's hot, Hot BBQ, Salt & pepper",
-            "prices": 
-                {
-                "price": "11.95"
+                "price": 8.95
                 }
             ,
             "category": "Appetizers"
@@ -85,17 +45,7 @@
             "description": "Spinach and feta filo pie",
             "prices": 
                 {
-                "price": "5.95"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Pork odd Chicken Skewer",
-            "description": "",
-            "prices": 
-                {
-                "price": "4.95"
+                "price": 5.95
                 }
             ,
             "category": "Appetizers"
@@ -105,17 +55,7 @@
             "description": "",
             "prices": 
                 {
-                "price": "7.95"
-                }
-            ,
-            "category": "Appetizers"
-        },
-        {
-            "title": "Samosas",
-            "description": "2 pieces",
-            "prices": 
-                {
-                "price": "5.00"
+                "price": 7.95
                 }
             ,
             "category": "Appetizers"
@@ -125,27 +65,82 @@
             "description": "Special Greek olives",
             "prices": 
                 {
-                "price": "3.95"
+                "price": 3.95
                 }
             ,
             "category": "Appetizers"
         },
         {
+            "title": "Pita",
+            "description": "Middle Eastern flatbread",
+            "prices": 
+                {
+                "price": 2.00
+                }
+            ,
+            "category": "Appetizers"
+        },
+        {
+            "title": "Feta",
+            "description": "Goat's milk cheese",
+            "prices": 
+                {
+                "price": 3.95
+                }
+            ,
+            "category": "Appetizers"
+        },
+        
+        {
+            "title": "Tiropita",
+            "description": "Eggs, feta and filo pastry",
+            "prices": 
+                {
+                "price": 5.95
+                }
+            ,
+            "category": "Appetizers"
+        },
+        
+        {
+            "title": "Wings",
+            "description": "Hot or honey garlic, Frank's hot, Hot BBQ, Salt & pepper",
+            "prices": 
+                {
+                "price": 11.95
+                }
+            ,
+            "category": "Appetizers"
+        },
+        
+        {
+            "title": "Pork odd Chicken Skewer",
+            "description": "",
+            "prices": 
+                {
+                "price": 4.95
+                }
+            ,
+            "category": "Appetizers"
+        },
+        
+        {
+            "title": "Samosas",
+            "description": "2 pieces",
+            "prices": 
+                {
+                "price": 5.00
+                }
+            ,
+            "category": "Appetizers"
+        },
+        
+        {
             "title": "Bermuda Salad",
             "description": "Sliced tomatoes and onions with homemade dressing",
             "prices": 
                 {
-                "price": "5.95"
-                }
-            ,
-            "category": "Salads"
-        },
-        {
-            "title": "Greek Salad",
-            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our homemade dressing",
-            "prices": 
-                {
-                "price": "11.95"
+                "price": 5.95
                 }
             ,
             "category": "Salads"
@@ -155,47 +150,60 @@
             "description": "Crisp Romaine lettuce, croutons and our homemade Caesar dressing",
             "prices": 
                 {
-                "price": "11.95"
+                "price": 11.95
                 }
             ,
             "category": "Salads"
         },
+        {
+            "title": "Ceasar Salad (Half Order)",
+            "description": "Crisp Romaine lettuce, croutons and our homemade Caesar dressing",
+            "prices": 
+                {
+                "price": 7.95
+                }
+            ,
+            "category": "Salads"
+        },
+        {
+            "title": "Chicken Caeser",
+            "description": "Fresh chicken breast",
+            "prices": 
+                {
+                "price": 16.95
+                }
+            ,
+            "category": "Salads"
+        },
+        {
+            "title": "Greek Salad",
+            "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our homemade dressing",
+            "prices": 
+                {
+                "price": 11.95
+                }
+            ,
+            "category": "Salads"
+        },
+        
         {
             "title": "Greek Salad (Half Order)",
             "description": "Fresh tomatoes, cucumbers, onions, green peppers and olives, topped with feta cheese and our homemade dressing",
             "prices": 
                 {
-                "price": "7.95"
+                "price": 7.95
                 }
             ,
             "category": "Salads"
         },
-        {
-            "title": "Ceasar Salad(Half Order)",
-            "description": "Crisp Romaine lettuce, croutons and our homemade Caesar dressing",
-            "prices": 
-                {
-                "price": "7.95"
-                }
-            ,
-            "category": "Salads"
-        },
+        
+
         {
             "title": "Tossed Salad",
             "description": "Lettuce greens and garden vegetables with your choice of duessing.",
             "prices": 
                 {
-                "price": "4.95"
-                }
-            ,
-            "category": "Salads"
-        },
-        {
-            "title": "Chicken Salad",
-            "description": "Fresh chicken breast",
-            "prices": 
-                {
-                "price": "16.95"
+                "price": 4.95
                 }
             ,
             "category": "Salads"
@@ -205,7 +213,7 @@
             "description": "Add on chicken or shrimp to any salad",
             "prices": 
                 {
-                "price": "6.00"
+                "price": 6.00
                 }
             ,
             "category": "Salads"
